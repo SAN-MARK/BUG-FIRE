@@ -1,0 +1,6 @@
+{
+  "name": "BUG FIRE - 3D Battle Royale",
+  "description": "High-octane retro 3D battle royale browser game featuring drop planes, procedural maps, 49 bot combatants, flyable aircraft, drivable buggies, gloo walls, and Vice City sunset aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
